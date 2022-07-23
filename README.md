@@ -1,6 +1,6 @@
-# <img align="left" alt="UpNode" width="40px" src="" draggable="false" /> UpNode ([Click to try 🚀](https://upnode.cf/))
+# <img align="left" alt="UpNode" width="40px" src="https://th.bing.com/th/id/R.d239567416570fce6717aabb7d4ce690?rik=ZuurvIT1M1iOjw&pid=ImgRaw&r=0" draggable="false" /> UpNode ([Click to try 🚀](https://upnode.cf/))
 
-UpNode 🌱 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+UpNode - Keep an eye 👀 on your website and be informed 🌱as soon as it is offline ☝️ - the best Uptime checker
 
 
 
