@@ -4,8 +4,8 @@ UpNode - Keep an eye 👀 on your website and be informed 🌱as soon as it is o
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog ☝️](https://github.com/linkspreed/UpNode/blob/main/changelog.md)** **Check out the full UpNode changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/UpNode/blob/main/Special_Works.md)** **Take a look at what changes we are doing to UpNode besides development**
 
 
 <div align="center">
